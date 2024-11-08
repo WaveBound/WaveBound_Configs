@@ -1,0 +1,203 @@
+{
+    "units": [
+        {
+            "unitNumber": 1,
+            "unitSlot": "Unit slot 3",
+            "enabled": true,
+            "wave": "2",
+            "delay": "1",
+            "clickLocation": "X=805, Y=742"
+        },
+        {
+            "unitNumber": 2,
+            "unitSlot": "Unit slot 1",
+            "enabled": true,
+            "wave": "3",
+            "delay": "1",
+            "clickLocation": "X=1173, Y=802"
+        },
+        {
+            "unitNumber": 3,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 4,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 5,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 6,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 7,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 8,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 9,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 10,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 11,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 12,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 13,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 14,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 15,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 16,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 17,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 18,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 19,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 20,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        }
+    ],
+    "upgrades": {
+        "numberOfUpgrades": "2",
+        "upgradeRegionStatus": "Upgrade Region: X1=387, Y1=379, X2=476, Y2=418",
+        "upgradeClickStatus": "Click location: X=399, Y=649",
+        "upgrades": [
+            {
+                "upgradeNumber": 1,
+                "unit": "Unit 1",
+                "wave": "3",
+                "upgradeText": "3"
+            },
+            {
+                "upgradeNumber": 2,
+                "unit": "Unit 1",
+                "wave": "3",
+                "upgradeText": "5"
+            }
+        ]
+    },
+    "abilities": {
+        "numberOfAbilities": "0",
+        "abilityClickStatus": "Click location: X=596, Y=449",
+        "abilities": []
+    },
+    "replay": {
+        "replayRegionStatus": "Replay Region: X1=1065, Y1=796, X2=1189, Y2=845",
+        "replayClickStatus": "Click location: X=1159, Y=817",
+        "replayText": "Retry, Replay"
+    },
+    "antiAfk": {
+        "antiAfkClickStatus": "Click location: X=882, Y=190"
+    },
+    "wave": {
+        "waveRegionStatus": "Wave Region: X1=656, Y1=48, X2=761, Y2=79"
+    },
+    "macroKeys": {
+        "startKey": "F3",
+        "stopKey": "F4"
+    }
+}
