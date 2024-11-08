@@ -1,0 +1,272 @@
+{
+    "units": [
+        {
+            "number": 1,
+            "slot": "1",
+            "enabled": true,
+            "click_location": [
+                1814,
+                905
+            ],
+            "wave_number": "1",
+            "sleep_time": "0.5"
+        },
+        {
+            "number": 2,
+            "slot": "2",
+            "enabled": true,
+            "click_location": [
+                957,
+                815
+            ],
+            "wave_number": "1",
+            "sleep_time": "0.5"
+        },
+        {
+            "number": 3,
+            "slot": "5",
+            "enabled": true,
+            "click_location": [
+                1514,
+                569
+            ],
+            "wave_number": "2",
+            "sleep_time": "0.5"
+        },
+        {
+            "number": 4,
+            "slot": "5",
+            "enabled": true,
+            "click_location": [
+                1309,
+                566
+            ],
+            "wave_number": "2",
+            "sleep_time": "0.5"
+        },
+        {
+            "number": 5,
+            "slot": "5",
+            "enabled": true,
+            "click_location": [
+                1102,
+                555
+            ],
+            "wave_number": "2",
+            "sleep_time": "0.5"
+        },
+        {
+            "number": 6,
+            "slot": "6",
+            "enabled": true,
+            "click_location": [
+                805,
+                544
+            ],
+            "wave_number": "2",
+            "sleep_time": "0.5"
+        },
+        {
+            "number": 7,
+            "slot": "2",
+            "enabled": true,
+            "click_location": [
+                1222,
+                794
+            ],
+            "wave_number": "3",
+            "sleep_time": "0.5"
+        },
+        {
+            "number": 8,
+            "slot": "1",
+            "enabled": true,
+            "click_location": null,
+            "wave_number": "",
+            "sleep_time": "0.5"
+        },
+        {
+            "number": 9,
+            "slot": "1",
+            "enabled": true,
+            "click_location": null,
+            "wave_number": "",
+            "sleep_time": "0.5"
+        },
+        {
+            "number": 10,
+            "slot": "1",
+            "enabled": true,
+            "click_location": null,
+            "wave_number": "",
+            "sleep_time": "0.5"
+        },
+        {
+            "number": 11,
+            "slot": "1",
+            "enabled": false,
+            "click_location": null,
+            "wave_number": "",
+            "sleep_time": "1"
+        },
+        {
+            "number": 12,
+            "slot": "1",
+            "enabled": false,
+            "click_location": null,
+            "wave_number": "",
+            "sleep_time": "1"
+        },
+        {
+            "number": 13,
+            "slot": "1",
+            "enabled": false,
+            "click_location": null,
+            "wave_number": "",
+            "sleep_time": "1"
+        },
+        {
+            "number": 14,
+            "slot": "1",
+            "enabled": false,
+            "click_location": null,
+            "wave_number": "",
+            "sleep_time": "1"
+        },
+        {
+            "number": 15,
+            "slot": "1",
+            "enabled": false,
+            "click_location": null,
+            "wave_number": "",
+            "sleep_time": "1"
+        },
+        {
+            "number": 16,
+            "slot": "1",
+            "enabled": false,
+            "click_location": null,
+            "wave_number": "",
+            "sleep_time": "1"
+        },
+        {
+            "number": 17,
+            "slot": "1",
+            "enabled": false,
+            "click_location": null,
+            "wave_number": "",
+            "sleep_time": "1"
+        },
+        {
+            "number": 18,
+            "slot": "1",
+            "enabled": false,
+            "click_location": null,
+            "wave_number": "",
+            "sleep_time": "1"
+        },
+        {
+            "number": 19,
+            "slot": "1",
+            "enabled": false,
+            "click_location": null,
+            "wave_number": "",
+            "sleep_time": "1"
+        },
+        {
+            "number": 20,
+            "slot": "1",
+            "enabled": false,
+            "click_location": null,
+            "wave_number": "",
+            "sleep_time": "1"
+        }
+    ],
+    "upgrade_click_location": [
+        301,
+        636
+    ],
+    "replay_click_location": [
+        1164,
+        815
+    ],
+    "anti_afk_click_location": [
+        886,
+        190
+    ],
+    "wave_search_region": [
+        651,
+        48,
+        776,
+        132
+    ],
+    "upgrade_region": [
+        384,
+        381,
+        480,
+        415
+    ],
+    "replay_region": [
+        1073,
+        799,
+        1179,
+        846
+    ],
+    "replay_text": "Replay, Retry",
+    "start_macro_key": "F3",
+    "stop_macro_key": "F4",
+    "num_upgrades": 3,
+    "upgrade_settings": [
+        {
+            "number": "1",
+            "unit": "1",
+            "wave": "3",
+            "text": "max"
+        },
+        {
+            "number": "2",
+            "unit": "2",
+            "wave": "3",
+            "text": "max"
+        },
+        {
+            "number": "3",
+            "unit": "7",
+            "wave": "3",
+            "text": "10"
+        }
+    ],
+    "num_abilities": 0,
+    "ability_settings": [],
+    "ability_click_location": [
+        430,
+        329
+    ],
+    "paragon_region_1": [
+        634,
+        459,
+        824,
+        483
+    ],
+    "paragon_region_2": [
+        863,
+        456,
+        1051,
+        483
+    ],
+    "paragon_region_3": [
+        1097,
+        456,
+        1278,
+        483
+    ],
+    "paragon_priorities": [
+        "STRONG ENEMIES",
+        "REGEN ENEMIES",
+        "THRICE",
+        "FAST ENEMIES",
+        "SHIELDED",
+        "EXPLOSION",
+        "REVITALIZE"
+    ]
+}
