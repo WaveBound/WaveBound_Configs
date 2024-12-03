@@ -1,0 +1,1096 @@
+{
+    "units": [
+        {
+            "unitNumber": 1,
+            "unitSlot": "Unit slot 3",
+            "enabled": true,
+            "wave": "2",
+            "delay": "2",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 2,
+            "unitSlot": "Unit slot 2",
+            "enabled": true,
+            "wave": "3",
+            "delay": "3",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 3,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 4,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 5,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 6,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 7,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 8,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 9,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 10,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 11,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 12,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 13,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 14,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 15,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 16,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 17,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 18,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 19,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        },
+        {
+            "unitNumber": 20,
+            "unitSlot": "Select Unit Slot",
+            "enabled": false,
+            "wave": "",
+            "delay": "",
+            "clickLocation": "Click location: not set"
+        }
+    ],
+    "upgrades": {
+        "numberOfUpgrades": "123",
+        "upgradeRegionStatus": "Upgrade Region: Not Set",
+        "upgradeClickStatus": "Upgrade Click Location: Not Set",
+        "upgrades": [
+            {
+                "upgradeNumber": 1,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 2,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 3,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 4,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 5,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 6,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 7,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 8,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 9,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 10,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 11,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 12,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 13,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 14,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 15,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 16,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 17,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 18,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 19,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 20,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 21,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 22,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 23,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 24,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 25,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 26,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 27,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 28,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 29,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 30,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 31,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 32,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 33,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 34,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 35,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 36,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 37,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 38,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 39,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 40,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 41,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 42,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 43,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 44,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 45,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 46,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 47,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 48,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 49,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 50,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 51,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 52,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 53,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 54,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 55,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 56,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 57,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 58,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 59,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 60,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 61,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 62,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 63,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 64,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 65,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 66,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 67,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 68,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 69,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 70,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 71,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 72,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 73,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 74,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 75,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 76,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 77,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 78,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 79,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 80,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 81,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 82,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 83,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 84,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 85,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 86,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 87,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 88,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 89,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 90,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 91,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 92,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 93,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 94,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 95,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 96,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 97,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 98,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 99,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 100,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 101,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 102,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 103,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 104,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 105,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 106,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 107,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 108,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 109,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 110,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 111,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 112,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 113,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 114,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 115,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 116,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 117,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 118,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 119,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 120,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 121,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 122,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            },
+            {
+                "upgradeNumber": 123,
+                "unit": "Select Unit",
+                "wave": "",
+                "upgradeText": ""
+            }
+        ]
+    },
+    "abilities": {
+        "numberOfAbilities": "23",
+        "abilityClickStatus": "Ability Click Location: Not Set",
+        "abilities": [
+            {
+                "abilityNumber": 1,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 2,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 3,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 4,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 5,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 6,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 7,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 8,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 9,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 10,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 11,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 12,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 13,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 14,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 15,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 16,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 17,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 18,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 19,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 20,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 21,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 22,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            },
+            {
+                "abilityNumber": 23,
+                "unit": "Select Unit",
+                "wave": "",
+                "delay": ""
+            }
+        ]
+    },
+    "cards": {
+        "cardRegion1Status": "Region 1: Not Set",
+        "cardRegion2Status": "Region 2: Not Set",
+        "cardRegion3Status": "Region 3: Not Set",
+        "cards": [
+            {
+                "priority": 1,
+                "name": "32"
+            },
+            {
+                "priority": 2,
+                "name": "234"
+            },
+            {
+                "priority": 3,
+                "name": "111"
+            },
+            {
+                "priority": 4,
+                "name": "234"
+            },
+            {
+                "priority": 5,
+                "name": "234"
+            }
+        ]
+    },
+    "replay": {
+        "replayRegionStatus": "Replay Region: Not Set",
+        "replayClickStatus": "Click Location: Not Set",
+        "replayText": ""
+    },
+    "antiAfk": {
+        "antiAfkClickStatus": "Click Location: Not Set"
+    },
+    "wave": {
+        "waveRegionStatus": "Wave Region: Not Set",
+        "waveFormat": "Both"
+    },
+    "macroKeys": {
+        "startKey": "Click To Set",
+        "stopKey": "Click To Set"
+    }
+}
